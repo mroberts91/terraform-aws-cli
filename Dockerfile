@@ -44,7 +44,7 @@ RUN ./aws/install --install-dir /usr/local/aws-cli --bin-dir /usr/local/bin
 
 # Build final image
 FROM debian:${DEBIAN_VERSION} AS build
-LABEL maintainer="bgauduch@github"
+LABEL maintainer="mroberts91@github"
 RUN apt-get update
 RUN apt-get install -y --no-install-recommends ca-certificates=20230311
 RUN apt-get install -y --no-install-recommends git=1:2.39.5-0+deb12u1
