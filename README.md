@@ -1,17 +1,17 @@
-[![lint-dockerfile](https://github.com/zenika-open-source/terraform-aws-cli/actions/workflows/lint-dockerfile.yml/badge.svg)](https://github.com/zenika-open-source/terraform-aws-cli/actions/workflows/lint-dockerfile.yml)
-[![build-test](https://github.com/zenika-open-source/terraform-aws-cli/actions/workflows/build-test.yml/badge.svg)](https://github.com/zenika-open-source/terraform-aws-cli/actions/workflows/build-test.yml)
-[![push-latest](https://github.com/zenika-open-source/terraform-aws-cli/actions/workflows/push-latest.yml/badge.svg)](https://github.com/zenika-open-source/terraform-aws-cli/actions/workflows/push-latest.yml)
-[![release](https://github.com/zenika-open-source/terraform-aws-cli/actions/workflows/release.yml/badge.svg)](https://github.com/zenika-open-source/terraform-aws-cli/actions/workflows/release.yml)
+[![lint-dockerfile](https://github.com/mroberts91/terraform-aws-cli/actions/workflows/lint-dockerfile.yml/badge.svg)](https://github.com/mroberts91/terraform-aws-cli/actions/workflows/lint-dockerfile.yml)
+[![build-test](https://github.com/mroberts91/terraform-aws-cli/actions/workflows/build-test.yml/badge.svg)](https://github.com/mroberts91/terraform-aws-cli/actions/workflows/build-test.yml)
+[![push-latest](https://github.com/mroberts91/terraform-aws-cli/actions/workflows/push-latest.yml/badge.svg)](https://github.com/mroberts91/terraform-aws-cli/actions/workflows/push-latest.yml)
+[![release](https://github.com/mroberts91/terraform-aws-cli/actions/workflows/release.yml/badge.svg)](https://github.com/mroberts91/terraform-aws-cli/actions/workflows/release.yml)
 
-[![dockerhub-description-update](https://github.com/zenika-open-source/terraform-aws-cli/actions/workflows/dockerhub-description-update.yml/badge.svg)](https://github.com/zenika-open-source/terraform-aws-cli/actions/workflows/dockerhub-description-update.yml)
+[![dockerhub-description-update](https://github.com/mroberts91/terraform-aws-cli/actions/workflows/dockerhub-description-update.yml/badge.svg)](https://github.com/mroberts91/terraform-aws-cli/actions/workflows/dockerhub-description-update.yml)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![Docker Pulls](https://img.shields.io/docker/pulls/zenika/terraform-aws-cli.svg)](https://hub.docker.com/r/zenika/terraform-aws-cli/)
+[![Docker Pulls](https://img.shields.io/docker/pulls/mroberts91/terraform-aws-cli.svg)](https://hub.docker.com/r/mroberts91/terraform-aws-cli/)
 
 # Terraform and AWS CLI Docker image
 
 ## 📦 Supported tags and respective Dockerfile links
 
-Available image tags can be found on the Docker Hub registry: [zenika/terraform-aws-cli](https://hub.docker.com/r/zenika/terraform-aws-cli/tags)
+Available image tags can be found on the Docker Hub registry: [mroberts91/terraform-aws-cli](https://hub.docker.com/r/mroberts91/terraform-aws-cli/tags)
 
 Supported versions are listed in the [`supported_versions.json`](https://github.com/Zenika/terraform-aws-cli/blob/master/supported_versions.json) file.
 
